@@ -1,6 +1,6 @@
 # TinDog
 
-### ![Udemy](https://img.shields.io/badge/%20-Udemy-blueviolet) Response Web Design Certification
+### ![Udemy](https://img.shields.io/badge/%20-Udemy-blueviolet) Web Development Bootcamp 
 ### 🔗 Links
 [![Github Pages](https://img.shields.io/badge/Github-Pages-green)](https://preetikaprakash.github.io/Tindog/)
 
