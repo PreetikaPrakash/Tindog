@@ -1,6 +1,6 @@
 # TinDog
 
-### ![Udemy](https://img.shields.io/badge/%20-Udemy-blueviolet) Web Development Bootcamp 
+### ![Udemy](https://img.shields.io/badge/%20-Udemy-blueviolet) Web Development Bootcamp by Dr. Angela Yu
 ### 🔗 Links
 [![Github Pages](https://img.shields.io/badge/Github-Pages-green)](https://preetikaprakash.github.io/Tindog/)
 
